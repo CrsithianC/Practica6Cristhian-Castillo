@@ -39,7 +39,7 @@ besu \
 
 No todos los nodos se conectan entre si:
 Nodo 1:
-<span>![</span><span>Nodo1 error</span><span>]</span><span>(</span><span>https:/raw.githubusercontent.com/CrsithianC/Practica6Cristhian-Castillo/blob/main/imagenes/nodo1.png</span><span>)</span>
+<span>![</span><span>Nodo1 error</span><span>]</span><span>(</span><span>https:/raw.githubusercontent.com/CrsithianC/Practica6Cristhian-Castillo/main/imagenes/nodo1.png</span><span>)</span>
 
   
 
