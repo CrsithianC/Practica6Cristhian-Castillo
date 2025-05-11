@@ -38,6 +38,8 @@ besu \
 ## Errores en la Practica
 
 No todos los nodos se conectan entre si:
+Solo los nodos 1 y dos encuentra 1 nodo al que conectarse
+
 Nodo 1:
 ![nodo1](https://github.com/user-attachments/assets/1ab3cc78-43a0-4375-84f7-2598c9e6e70c)
 Nodo 2:
