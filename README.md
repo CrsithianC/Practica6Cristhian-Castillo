@@ -39,7 +39,18 @@ besu \
 
 No todos los nodos se conectan entre si:
 Nodo 1:
-<span>![</span><span>Nodo1 error</span><span>]</span><span>(</span><span>https:/raw.githubusercontent.com/CrsithianC/Practica6Cristhian-Castillo/main/imagenes/nodo1.png</span><span>)</span>
+![nodo1](https://github.com/user-attachments/assets/1ab3cc78-43a0-4375-84f7-2598c9e6e70c)
+Nodo 2:
+![nodo2](https://github.com/user-attachments/assets/da8f9182-a22f-4ad0-ac70-368cbd3dec63)
+Nodo 3: 
+![nodo3](https://github.com/user-attachments/assets/0169fd22-fafe-49dc-99e3-596ca5a3a77c)
+Nodo 4 :
+![nodo4](https://github.com/user-attachments/assets/1e88c369-1b72-4cc6-8dc4-549c5467bfdf)
+Nodo 5:
+![nodo5](https://github.com/user-attachments/assets/92a5b520-9c72-4e84-bcab-b0b5bab611bc)
+
+
+
 
   
 
