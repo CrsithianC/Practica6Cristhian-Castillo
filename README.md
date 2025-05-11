@@ -39,7 +39,7 @@ besu \
 
 No todos los nodos se conectan entre si:
 Nodo 1: 
-<span>https://raw.githubusercontent.com/CrsithianC/Practica6Cristhian-Castillo/imagenes/nodo1.png<span>
+<span>[https://raw.githubusercontent.com/CrsithianC/Practica6Cristhian-Castillo/imagenes/nodo1.png](https://github.com/CrsithianC/Practica6Cristhian-Castillo/blob/main/imagenes/nodo1.png)<span>
 
   
 
