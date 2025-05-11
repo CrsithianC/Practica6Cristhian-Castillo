@@ -1,0 +1,33 @@
+{
+  "config": {
+    "chainId": 2025,
+    "constantinopleFixBlock": 0,
+    "ethash": {},
+    "ibft2": {
+      "blockPeriodSeconds": 15,
+      "validators": [
+        "enode://e9cca1db4c5194c6fb4a872b99533406e88a83d18706a14866b546ddb71d63ada526c778ab4a09437ba8a4de1166dbcd51211a477833f0b25402427df54b6b5c@10.204.0.5:30303",
+        "enode://a98f4d9769658c9f05551c0feff877b27c50fee247cedbb8eb770aa4faf8bd7b2ea08e45f6663dcced3cbcf4100737c5dcdd599a52e1e76f2528bf5336610100@10.204.0.5:30304",
+        "enode://2ee226e9933a564992cadee4c70deed9761de47dac84e367d28e386f7ac5684459919b89da67870dd732160c965cb3d287e7817010d37f07394b3679e529b038@10.204.0.5:30305",
+        "enode://246e9c25ad8aa0cf68124311ecfb493d468b5332464e8fd6b693eb684c48eb93f7d5d6e6a55c61fef8f0438a58e8a3ff0d1c125773b8d92d77945e9bc69aff5a@10.204.0.5:30306",
+        "enode://87d30251eab49056d0b0c21d31d24d4443020361530cc42e68316c7b0d8e74bc49a753c020adff340c179cf75489b59b69adf03790ae712a2be185cbf0686d63@10.204.0.5:30307"
+      ],
+      "extraData": "0x",
+      "quorum": 3
+    }
+  },
+  "nonce": "0x0",
+  "timestamp": "0x0",
+  "gasLimit": "0x1c9c380",
+  "difficulty": "0x20000",
+  "mixHash": "0x6374696e6765652d627573742d6e657420696d616765",
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "alloc": {},
+  "number": "0x0",
+  "gasUsed": "0x0",
+  "parentHash": "0x0",
+  "receiptsRoot": "0x0",
+  "logsBloom": "0x0",
+  "stateRoot": "0x0",
+  "transactionsRoot": "0x0"
+}
